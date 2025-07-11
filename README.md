@@ -1,13 +1,19 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-  <meta charset="UTF-8">
-</head>
-<body>
-  <h1>Bienvenue 👋</h1>
-  <p>Je suis <strong>Safa Ariguib</strong>, étudiante en ingénierie informatique et multimédia.<br>
-     Passionnée par le développement web, l’UX/UI et les technologies modernes.</p>
-  <p>📫 Contact : safaariguib284@gmail.com</p>
-</body>
-</html>
+# 👋 Bienvenue sur mon Portfolio
+
+Je suis **Safa Ariguib**, étudiante en ingénierie informatique et multimédia.
+
+---
+
+## 💻 Compétences
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+...
+
+---
+
+## 📫 Me contacter
+- Email : safaa@example.com
+- GitHub : [@safa-ariguib](https://github.com/safa-ariguib)
 

@@ -14,6 +14,6 @@ Je suis **Safa Ariguib**, étudiante en ingénierie informatique et multimédia.
 ---
 
 ## 📫 Me contacter
-- Email : safaa@example.com
+- Email : safaariguib284@gmail.com
 - GitHub : [@safa-ariguib](https://github.com/safa-ariguib)
 

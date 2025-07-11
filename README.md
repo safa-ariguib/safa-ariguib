@@ -2,21 +2,7 @@
 <html lang="fr">
 <head>
   <meta charset="UTF-8">
-  <title>Safa Ariguib</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      text-align: center;
-      margin: 50px;
-      background: #f9f9f9;
-      color: #333;
-    }
-    h1 {
-      color: #5A189A;
-    }
-    p {
-      font-size: 18px;
-    }
+  
   </style>
 </head>
 <body>

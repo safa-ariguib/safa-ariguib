@@ -1,16 +1,31 @@
 ## Hi there 👋
 
-<!--
-**safa-ariguib/safa-ariguib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Safa Ariguib</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      margin: 50px;
+      background: #f9f9f9;
+      color: #333;
+    }
+    h1 {
+      color: #5A189A;
+    }
+    p {
+      font-size: 18px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Bienvenue 👋</h1>
+  <p>Je suis <strong>Safa Ariguib</strong>, étudiante en ingénierie informatique et multimédia.<br>
+     Passionnée par le développement web, l’UX/UI et les technologies modernes.</p>
+  <p>📫 Contact : safa@example.com</p>
+</body>
+</html>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

@@ -2,8 +2,6 @@
 <html lang="fr">
 <head>
   <meta charset="UTF-8">
-  
-  </style>
 </head>
 <body>
   <h1>Bienvenue 👋</h1>
